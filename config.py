@@ -2,7 +2,7 @@ EMAIL = "24f2007163@ds.study.iitm.ac.in"
 
 Q1_ALLOWED_ORIGIN = "https://dash-bbpad6.example.com"
 
-ISSUER = https://idp.exam.local"
+ISSUER = "https://idp.exam.local"
 AUDIENCE = "tds-v0wsq391.apps.exam.local"
 PUBLIC_KEY_PEM= """-----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2okOHspNjgA+2rTLbeuY
